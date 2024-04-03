@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jack Vaska
+- 👀 I’m interested in bioinformatics, data science, and software engineering.
+- 🌱 I’m currently learning Python and its machine learning libraries!
