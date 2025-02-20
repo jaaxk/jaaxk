@@ -3,7 +3,7 @@
 - I'm a masters student in Biomedical Informatics at Stony Brook University
 - Interested in large language models and their application in bioinformatics
   - My capstone project is using [DNABERT-S](https://arxiv.org/abs/2402.08777) to build better metagenomics tools and learn more about the human microbiome
-- I'm currently looking for an internship in bioinformatics or data science for summer 2025
+- I'm currently looking for an internship in bioinformatics or machine learning engineering for summer 2025
 
 ### My repositories
 - Here I have various individual and university projects that I've worked on throughout the years
