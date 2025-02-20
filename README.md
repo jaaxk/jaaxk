@@ -2,7 +2,7 @@
 ### About Me
 - I'm a masters student in Biomedical Informatics at Stony Brook University
 - Interested in large language models and their application in bioinformatics
-  - My capstone project is using [DNABERT-S](https://arxiv.org/abs/2402.08777) to learn more about the human virome
+  - My capstone project is using [DNABERT-S](https://arxiv.org/abs/2402.08777) to build better metagenomics tools and learn more about the human microbiome
 - I'm currently looking for an internship in bioinformatics or data science for summer 2025
 
 ### My repositories
