@@ -2,8 +2,8 @@
 ### About Me
 - I'm a masters student in Biomedical Informatics at Stony Brook University
 - Interested in large language models and their application in bioinformatics
-  - My capstone project is using [DNABERT-S](https://arxiv.org/abs/2402.08777) to build better metagenomics tools and learn more about the human microbiome
-- I'm currently looking for an internship in bioinformatics or machine learning engineering for summer 2025
+  - My current thesis work involves developing a high-throuput pipeline for prediction of antimicrobial resistance from WGS of bacterial isolates - accepted at the leading bioinformatics conference, ISMB/ECCB 2025 (Repository currently private due to patent consideration)
+- I'm currently looking for positions in bioinformatics, data science, or machine learning engineer
 
 ### My repositories
 - Here I have various individual and university projects that I've worked on throughout the years
